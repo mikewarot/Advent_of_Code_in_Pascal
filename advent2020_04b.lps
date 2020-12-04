@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="advent2020_04b.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="72"/>
+        <CursorPos X="54" Y="89"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\hash\src\md5.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="106"/>
+        <CursorPos X="10" Y="167"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="advent2015_02b.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="3"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="advent2020_03b.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="23" HistoryIndex="22">
+      <Position1>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="104" Column="39" TopLine="72"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="76" Column="53" TopLine="60"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="78" Column="55" TopLine="62"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="81" Column="5" TopLine="64"/>
+      </Position4>
+      <Position5>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="88" TopLine="69"/>
+      </Position5>
+      <Position6>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="24" Column="10" TopLine="17"/>
+      </Position6>
+      <Position7>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="97" Column="53" TopLine="80"/>
+      </Position7>
+      <Position8>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="92" Column="39" TopLine="77"/>
+      </Position8>
+      <Position9>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="93" Column="21" TopLine="76"/>
+      </Position9>
+      <Position10>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="49" Column="48" TopLine="38"/>
+      </Position10>
+      <Position11>
+        <Filename Value="advent2020_04b.pas"/>
+      </Position11>
+      <Position12>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="32" Column="11" TopLine="4"/>
+      </Position12>
+      <Position13>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="66" Column="36" TopLine="38"/>
+      </Position13>
+      <Position14>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="71" Column="35" TopLine="43"/>
+      </Position14>
+      <Position15>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="76" Column="35" TopLine="48"/>
+      </Position15>
+      <Position16>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="83" Column="66" TopLine="53"/>
+      </Position16>
+      <Position17>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="85" Column="33" TopLine="57"/>
+      </Position17>
+      <Position18>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="89" Column="35" TopLine="61"/>
+      </Position18>
+      <Position19>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="92" Column="29" TopLine="64"/>
+      </Position19>
+      <Position20>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="94" Column="31" TopLine="66"/>
+      </Position20>
+      <Position21>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="102" Column="29" TopLine="74"/>
+      </Position21>
+      <Position22>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="107" Column="27" TopLine="79"/>
+      </Position22>
+      <Position23>
+        <Filename Value="advent2020_04b.pas"/>
+        <Caret Line="111" Column="33" TopLine="80"/>
+      </Position23>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="s"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="advent2020_04a.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="29"/>
+        <CursorPos X="24" Y="46"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\hash\src\md5.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="106"/>
+        <CursorPos X="10" Y="167"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="advent2015_02b.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="3"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="advent2020_04a.pas"/>
+        <Caret Line="41" Column="41" TopLine="18"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2020_04a.pas"/>
+        <Caret Line="3" Column="41"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advent2020_04a.pas"/>
+        <Caret Line="5" Column="45"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advent2020_04a.pas"/>
+        <Caret Line="37" Column="27" TopLine="16"/>
+      </Position4>
+      <Position5>
+        <Filename Value="advent2020_04a.pas"/>
+        <Caret Line="32" Column="11" TopLine="11"/>
+      </Position5>
+      <Position6>
+        <Filename Value="advent2020_04a.pas"/>
+        <Caret Line="37" Column="56" TopLine="5"/>
+      </Position6>
+      <Position7>
+        <Filename Value="advent2020_04a.pas"/>
+        <Caret Line="49" Column="23" TopLine="29"/>
+      </Position7>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="s"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>
