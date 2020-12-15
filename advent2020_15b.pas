@@ -21,39 +21,40 @@ begin
 end;
 
 var
-  StartTime : TDateTime;
-  count     : integer;
-  s         : string;
-  i,n       : uint64;
-  buffer    : array[0..30000000] of integer;
-  spoken    : integer;
+  StartTime  : TDateTime;
+  InputCount : integer;
+  s          : string;
+  Turn,i     : uint64;
+  Number     : uint64;
+  LastUsed   : array[0..30000000] of integer;
+  spoken     : integer;
 
 begin
-  for i := 0 to 30000000 do      // clear our buffer of values
-    buffer[i] := 0;
+  for i := 0 to 30000000 do      // clear our LastUsed of values
+    LastUsed[i] := 0;
   readln(s);                     // read the string of values from standard input
   StartTime := Now;
-  count := 0;
+  InputCount := 0;
   repeat                         // this handles the numbers from the input list
-    inc(count);
-    n := getnum(s);
-    spoken := buffer[n];
+    inc(InputCount);
+    Number := getnum(s);
+    spoken := LastUsed[Number];
     if spoken <> 0 then
-      spoken := count-spoken;
-    buffer[n] := count;          // for each of the starting numbers, post the turn it was "spoken" to it's buffer
-    write(n,',');
+      spoken := InputCount-spoken;
+    LastUsed[Number] := InputCount;          // for each of the starting numbers, post the turn it was "spoken" to it's buffer
+    write(Number,',');
   until s = '';
 
-  for i := count+1 to 30000000 do
+  for Turn := InputCount+1 to 30000000 do
   begin
-    n := spoken;                 // n is now the last "spoken" number
-    //    write(n,',');            // debug = write value
-    spoken := buffer[n];         // when was N last said?
-    buffer[n] := i;              // update the count of the last "spoken" number to now
+    Number := spoken;            // Number is now the last "spoken" number
+    //    write(Number,',');     // debug = write value
+    spoken := LastUsed[Number];  // when was Number last said?
+    LastUsed[Number] := Turn;    // update the InputCount of the last "spoken" number to now
     if spoken <> 0 then          // 0 --> we'll say zeronever;
-      spoken := i-spoken;        // else  say i-(last time it was said)
+      spoken := Turn-spoken;     // else  say Turn-(last time it was said)
   end;
-  writeln(n);                    // display the last spoken number, not this one
+  writeln(Number);                    // display the last spoken number, not this one
   writeln((MilliSecondsBetween(Now,StartTime)*0.001):10:3,' seconds');
 end.
 
