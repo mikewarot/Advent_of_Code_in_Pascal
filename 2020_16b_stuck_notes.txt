@@ -1,0 +1,48 @@
+11 79
+16 83
+9  67
+15 137
+13 149
+10 71
+
+departure location : 11
+departure station : 16
+departure platform : 9
+departure track : 15
+departure date : 13
+departure time : 10
+arrival location : 6
+arrival station : 18
+arrival platform : 7
+arrival track : 17
+class : 3
+duration : 5
+price : 12
+route : 4
+row : 14
+seat : 8
+train : 2
+type : 19
+wagon : 20
+zone : 1
+
+departure location : 11
+departure station : 16
+departure platform : 9
+departure track : 15
+departure date : 13
+departure time : 10
+arrival location : 6
+arrival station : 18
+arrival platform : 7
+arrival track : 17
+class : 3
+duration : 5
+price : 12
+route : 4
+row : 14
+seat : 8
+train : 2
+type : 19
+wagon : 20
+zone : 1

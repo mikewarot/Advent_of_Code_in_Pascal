@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="advent2020_16b.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="134"/>
+        <CursorPos X="41" Y="154"/>
+        <UsageCount Value="38"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\hash\src\md5.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="106"/>
+        <CursorPos X="10" Y="167"/>
+        <UsageCount Value="9"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="advent2015_02b.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="3"/>
+        <UsageCount Value="9"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="advent2020_03b.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="advent2015_04b.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="advent2020_04b.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="21"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="15" HistoryIndex="14">
+      <Position1>
+        <Filename Value="advent2020_16b.pas"/>
+        <Caret Line="89" Column="10" TopLine="62"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2020_16b.pas"/>
+        <Caret Line="92" TopLine="69"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advent2020_16b.pas"/>
+        <Caret Line="114" Column="13" TopLine="89"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advent2020_16b.pas"/>
+        <Caret Line="71" Column="65" TopLine="58"/>
+      </Position4>
+      <Position5>
+        <Filename Value="advent2020_16b.pas"/>
+        <Caret Line="92" Column="13" TopLine="78"/>
+      </Position5>
+      <Position6>
+        <Filename Value="advent2020_16b.pas"/>
+        <Caret Line="97" Column="7" TopLine="83"/>
+      </Position6>
+      <Position7>
+        <Filename Value="advent2020_16b.pas"/>
+        <Caret Line="130" Column="52" TopLine="103"/>
+      </Position7>
+      <Position8>
+        <Filename Value="advent2020_16b.pas"/>
+        <Caret Line="142" TopLine="115"/>
+      </Position8>
+      <Position9>
+        <Filename Value="advent2020_16b.pas"/>
+        <Caret Line="164" Column="11" TopLine="137"/>
+      </Position9>
+      <Position10>
+        <Filename Value="advent2020_16b.pas"/>
+        <Caret Line="39" Column="25" TopLine="17"/>
+      </Position10>
+      <Position11>
+        <Filename Value="advent2020_16b.pas"/>
+        <Caret Line="32" Column="16" TopLine="18"/>
+      </Position11>
+      <Position12>
+        <Filename Value="advent2020_16b.pas"/>
+        <Caret Line="68" Column="5" TopLine="53"/>
+      </Position12>
+      <Position13>
+        <Filename Value="advent2020_16b.pas"/>
+        <Caret Line="159" Column="34" TopLine="132"/>
+      </Position13>
+      <Position14>
+        <Filename Value="advent2020_16b.pas"/>
+        <Caret Line="104" Column="28" TopLine="78"/>
+      </Position14>
+      <Position15>
+        <Filename Value="advent2020_16b.pas"/>
+      </Position15>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="s"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>
