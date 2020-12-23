@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="advent2020_23a.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="195"/>
+        <CursorPos X="47" Y="216"/>
+        <UsageCount Value="53"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\hash\src\md5.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="106"/>
+        <CursorPos X="10" Y="167"/>
+        <UsageCount Value="8"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="advent2015_02b.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="3"/>
+        <UsageCount Value="8"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="advent2020_03b.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="advent2015_04b.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="advent2020_04b.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="21"/>
+        <UsageCount Value="9"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="18" HistoryIndex="17">
+      <Position1>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="218" Column="86" TopLine="192"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="212" TopLine="192"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="237" TopLine="213"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="224" Column="33" TopLine="209"/>
+      </Position4>
+      <Position5>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="241" TopLine="214"/>
+      </Position5>
+      <Position6>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="227" Column="37" TopLine="212"/>
+      </Position6>
+      <Position7>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="243" TopLine="219"/>
+      </Position7>
+      <Position8>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="214" Column="31" TopLine="187"/>
+      </Position8>
+      <Position9>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="194" Column="21" TopLine="187"/>
+      </Position9>
+      <Position10>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="195" Column="24" TopLine="185"/>
+      </Position10>
+      <Position11>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="212" Column="17" TopLine="194"/>
+      </Position11>
+      <Position12>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="227" Column="4" TopLine="204"/>
+      </Position12>
+      <Position13>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="194" Column="14" TopLine="186"/>
+      </Position13>
+      <Position14>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="241" Column="29" TopLine="217"/>
+      </Position14>
+      <Position15>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="248" TopLine="221"/>
+      </Position15>
+      <Position16>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="185" TopLine="185"/>
+      </Position16>
+      <Position17>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="195" Column="9" TopLine="189"/>
+      </Position17>
+      <Position18>
+        <Filename Value="advent2020_23a.pas"/>
+        <Caret Line="223" Column="31" TopLine="209"/>
+      </Position18>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="6">
+      <Item1>
+        <Expression Value="s"/>
+      </Item1>
+      <Item2>
+        <Expression Value="next"/>
+      </Item2>
+      <Item3>
+        <Expression Value="rulenum"/>
+      </Item3>
+      <Item4>
+        <Expression Value="x"/>
+      </Item4>
+      <Item5>
+        <Expression Value="count"/>
+      </Item5>
+      <Item6>
+        <Expression Value="matchsize"/>
+      </Item6>
+    </Watches>
+  </Debugging>
+</CONFIG>
