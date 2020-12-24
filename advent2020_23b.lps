@@ -9,7 +9,7 @@
         <Filename Value="advent2020_23b.pas"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos Y="14"/>
+        <CursorPos X="2" Y="3"/>
         <UsageCount Value="54"/>
         <Loaded Value="True"/>
       </Unit0>
@@ -43,7 +43,7 @@
         <UsageCount Value="9"/>
       </Unit5>
     </Units>
-    <JumpHistory Count="20" HistoryIndex="19">
+    <JumpHistory Count="22" HistoryIndex="21">
       <Position1>
         <Filename Value="advent2020_23b.pas"/>
         <Caret Line="250" Column="3" TopLine="226"/>
@@ -124,6 +124,14 @@
         <Filename Value="advent2020_23b.pas"/>
         <Caret Line="19"/>
       </Position20>
+      <Position21>
+        <Filename Value="advent2020_23b.pas"/>
+        <Caret Line="4" Column="13"/>
+      </Position21>
+      <Position22>
+        <Filename Value="advent2020_23b.pas"/>
+        <Caret Line="3" Column="3"/>
+      </Position22>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
