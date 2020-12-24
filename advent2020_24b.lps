@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="advent2020_24b.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="69"/>
+        <CursorPos X="29" Y="85"/>
+        <UsageCount Value="54"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\hash\src\md5.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="106"/>
+        <CursorPos X="10" Y="167"/>
+        <UsageCount Value="8"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="advent2015_02b.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="3"/>
+        <UsageCount Value="8"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="advent2020_03b.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="advent2015_04b.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="advent2020_04b.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="21"/>
+        <UsageCount Value="9"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="advent2020_24b.pas"/>
+        <Caret Line="94" Column="55" TopLine="72"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2020_24b.pas"/>
+        <Caret Line="19" Column="25"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advent2020_24b.pas"/>
+        <Caret Line="20" Column="25" TopLine="5"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advent2020_24b.pas"/>
+        <Caret Line="102" Column="30" TopLine="80"/>
+      </Position4>
+      <Position5>
+        <Filename Value="advent2020_24b.pas"/>
+        <Caret Line="135" TopLine="110"/>
+      </Position5>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="6">
+      <Item1>
+        <Expression Value="s"/>
+      </Item1>
+      <Item2>
+        <Expression Value="next"/>
+      </Item2>
+      <Item3>
+        <Expression Value="rulenum"/>
+      </Item3>
+      <Item4>
+        <Expression Value="x"/>
+      </Item4>
+      <Item5>
+        <Expression Value="count"/>
+      </Item5>
+      <Item6>
+        <Expression Value="matchsize"/>
+      </Item6>
+    </Watches>
+  </Debugging>
+</CONFIG>
