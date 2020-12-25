@@ -128,20 +128,6 @@ begin
       writeln;
     end;
 
-  writeln;
-  writeln('Visualization part');
-  writeln;
-  for y := miny-1 to maxy+1 do
-    begin
-      write(y:4);
-      for x := minx-1 to maxx+1 do
-        if grid[x,y]+grid[x+1,y] > 0 then
-          write('*')
-        else
-          write('.');
-      writeln;
-    end;
-
   writeln((MilliSecondsBetween(Now,StartTime)*0.001):10:3,' seconds');
 end.
 

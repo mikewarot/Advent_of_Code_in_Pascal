@@ -1,4 +1,4 @@
-program advent2020_07b;
+program advent2020_07c;
 uses
   classes, sysutils;
 
@@ -40,11 +40,11 @@ end;
 
 type
   bag = record
-          kind : string;
-          count : array[1..10] of integer;
-          sub   : array[1..10] of string;
+          kind   : string;
+          count  : array[1..10] of integer;
+          sub    : array[1..10] of string;
           subtotal : array[1..10] of integer;
-          total : integer;
+          total  : integer;
         end;
 var
   bags : array[1..1000] of bag;
