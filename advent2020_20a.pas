@@ -109,6 +109,40 @@ type
     GetEdge := S;
   end;
 
+  Function GetRotatedRow(T : tTile; RowNum : Integer): String;
+  var
+    s : string;
+    i : integer;
+    x,y : integer;
+  begin
+    s := '';
+    for i := 1 to 10 do
+      begin
+        Case T.Rotation of
+          0 : begin
+                x := i;
+                y := rownum;
+              end;
+          2 : begin
+                x := 11-i;
+                y := 11-rownum;
+              end;
+          1 : begin
+                x := rownum;
+                y := i;
+              end;
+          3 : begin
+                x := 11-rownum;
+                y := 11-i;
+              end;
+        end; // case
+        if T.FlipX then
+          y := 11-y;
+        S := s + t.Data[y][x];
+    end;
+    GetRotatedRow := s;
+  end;
+
   Function Reverse(T : String):String;
   var
     i : integer;
@@ -138,6 +172,10 @@ var
   NextPiece : Integer;
   NewEdge   : Integer;
   X,Y       : Integer;
+  Width,Height : Integer;
+  Row,Col   : Integer;
+
+  grid      : array[1..12] of array[1..12] of integer;
 
 begin
   StartTime := Now;
@@ -166,6 +204,16 @@ begin
   until done or eof;
 
 
+  If TileCount = 9 then
+    begin
+      Width := 3;
+      Height := 3;
+    end
+  else
+    begin
+      Width := 12;
+      Height := 12;
+    end;
   WriteLn(TileCount,' tiles accepted');
   writeln((MilliSecondsBetween(Now,StartTime)*0.001):10:3,' seconds');
 
@@ -253,9 +301,10 @@ begin
   NextPiece := Tile[LeftPiece].EdgeMatch[(5-Tile[LeftPiece].Rotation) mod 4];
   WriteLn('Next Piece = ',NextPiece);
   WriteLn('*RECORD* (',y,',',x,') <<',Tile[LeftPiece].TileNumber,'>>');
-  Tile[LeftPiece].X := X;  Inc(X);
+  Tile[LeftPiece].X := X;
   Tile[LeftPiece].Y := Y;
-
+  Grid[X,Y] := LeftPiece;
+  Inc(X);
 
   repeat
     NextPiece := Abs(NextPiece);
@@ -266,25 +315,38 @@ begin
     WriteLn('New Edge = ',NewEdge);
     Tile[NextPiece].Rotation := (7-newEdge) mod 4;
 
+    If Tile[NextPiece].EdgeMatch[i] > 0 then             // need to flip the next part relative to this one
+      Tile[NextPiece].FlipY := Tile[LeftPiece].FlipY
+    else
+      Tile[NextPiece].FlipY := NOT Tile[LeftPiece].FlipY;
+
+
     LeftPiece := NextPiece;
     WriteLn('Left Piece = ',LeftPiece);
     WriteLn('Left Matches = ',Matches[LeftPiece]);
-    WriteLn('*RECORD* (',y,',',x,') <<',Tile[LeftPiece].TileNumber,'>>');
-    Tile[LeftPiece].X := X;  Inc(X);
+    WriteLn('*RECORD* (',x,',',y,') <<',Tile[LeftPiece].TileNumber,'>>');
+    Tile[LeftPiece].X := X;
     Tile[LeftPiece].Y := Y;
+    Grid[X,Y] := LeftPiece;
+    Inc(X);
     NextPiece := Tile[LeftPiece].EdgeMatch[(5-Tile[LeftPiece].Rotation) mod 4];
     WriteLn('Next Piece = ',NextPiece);
-  until (NextPiece = 0);
+  until (NextPiece = 0);  // goes across a row to the right, ignoring flips for now
 
-  WriteLn('Next Piece Pointer: ',NextPiece);
-  WriteLn('Next Piece: ',Tile[NextPiece].TileNumber);
-  WriteLn('Matches = ',Matches[NextPiece]);
-  For i := 0 to 3 do
-    If (Tile[NextPiece].EdgeMatch[i] <> 0) then
-      WriteLn('Match # ',i,',',Tile[NextPiece].EdgeMatch[i],' ',Tile[Abs(Tile[NextPiece].EdgeMatch[i])].TileNumber);
+
+  writeln;
+  writeln('Picture output - I hope');
+  writeln;
+
+
+  for y := 1 to 1 do
+    for row := 1 to 10 do
+      begin
+        for x := 1 to width do
+          write(GetRotatedRow(Tile[Grid[x,y]],Row),'-');
+        writeln;
+      end; // for row
 
   writeln((MilliSecondsBetween(Now,StartTime)*0.001):10:3,' seconds');
-
-  writeln(Reverse('Hello, World!'));
 end.
 
