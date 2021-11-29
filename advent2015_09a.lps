@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="advent2015_09a.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="131"/>
+        <CursorPos X="34" Y="151"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="advent2015_05b.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="advent2015_07a.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="113"/>
+        <CursorPos Y="115"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="849"/>
+        <CursorPos X="14" Y="859"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\classes\stringl.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2058"/>
+        <CursorPos X="3" Y="2073"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="14" HistoryIndex="13">
+      <Position1>
+        <Filename Value="advent2015_09a.lpr"/>
+        <Caret Line="70" Column="50" TopLine="51"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2015_09a.lpr"/>
+        <Caret Line="55" Column="26" TopLine="50"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advent2015_09a.lpr"/>
+        <Caret Line="79" Column="29" TopLine="59"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advent2015_09a.lpr"/>
+        <Caret Line="92" Column="26" TopLine="70"/>
+      </Position4>
+      <Position5>
+        <Filename Value="advent2015_09a.lpr"/>
+        <Caret Line="59" Column="23" TopLine="48"/>
+      </Position5>
+      <Position6>
+        <Filename Value="advent2015_09a.lpr"/>
+        <Caret Line="61" Column="25" TopLine="52"/>
+      </Position6>
+      <Position7>
+        <Filename Value="advent2015_09a.lpr"/>
+        <Caret Line="71" Column="20" TopLine="52"/>
+      </Position7>
+      <Position8>
+        <Filename Value="advent2015_09a.lpr"/>
+        <Caret Line="6" Column="21"/>
+      </Position8>
+      <Position9>
+        <Filename Value="advent2015_09a.lpr"/>
+        <Caret Line="80" Column="18" TopLine="58"/>
+      </Position9>
+      <Position10>
+        <Filename Value="advent2015_09a.lpr"/>
+        <Caret Line="104" Column="48" TopLine="86"/>
+      </Position10>
+      <Position11>
+        <Filename Value="advent2015_09a.lpr"/>
+        <Caret Line="107" Column="36" TopLine="88"/>
+      </Position11>
+      <Position12>
+        <Filename Value="advent2015_09a.lpr"/>
+        <Caret Line="87" Column="38" TopLine="76"/>
+      </Position12>
+      <Position13>
+        <Filename Value="advent2015_09a.lpr"/>
+        <Caret Line="75" Column="32" TopLine="75"/>
+      </Position13>
+      <Position14>
+        <Filename Value="advent2015_09a.lpr"/>
+        <Caret Line="111" Column="32" TopLine="100"/>
+      </Position14>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
