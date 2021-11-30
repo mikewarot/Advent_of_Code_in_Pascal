@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="advent2015_12b.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="119"/>
+        <CursorPos X="22" Y="140"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="13" HistoryIndex="12">
+      <Position1>
+        <Filename Value="advent2015_12b.lpr"/>
+        <Caret Line="50" TopLine="33"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2015_12b.lpr"/>
+        <Caret Line="24" Column="21" TopLine="4"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advent2015_12b.lpr"/>
+        <Caret Line="26" Column="49" TopLine="4"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advent2015_12b.lpr"/>
+        <Caret Line="55" Column="20" TopLine="36"/>
+      </Position4>
+      <Position5>
+        <Filename Value="advent2015_12b.lpr"/>
+        <Caret Line="84" Column="40" TopLine="65"/>
+      </Position5>
+      <Position6>
+        <Filename Value="advent2015_12b.lpr"/>
+        <Caret Line="12"/>
+      </Position6>
+      <Position7>
+        <Filename Value="advent2015_12b.lpr"/>
+        <Caret Line="11" Column="81"/>
+      </Position7>
+      <Position8>
+        <Filename Value="advent2015_12b.lpr"/>
+        <Caret Line="76" Column="47" TopLine="68"/>
+      </Position8>
+      <Position9>
+        <Filename Value="advent2015_12b.lpr"/>
+        <Caret Line="112" Column="38" TopLine="101"/>
+      </Position9>
+      <Position10>
+        <Filename Value="advent2015_12b.lpr"/>
+        <Caret Line="11" Column="11"/>
+      </Position10>
+      <Position11>
+        <Filename Value="advent2015_12b.lpr"/>
+        <Caret Line="104" TopLine="97"/>
+      </Position11>
+      <Position12>
+        <Filename Value="advent2015_12b.lpr"/>
+        <Caret Line="91" Column="11" TopLine="81"/>
+      </Position12>
+      <Position13>
+        <Filename Value="advent2015_12b.lpr"/>
+        <Caret Line="141" Column="7" TopLine="119"/>
+      </Position13>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
