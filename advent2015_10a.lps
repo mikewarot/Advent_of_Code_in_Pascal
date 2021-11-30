@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="advent2015_10a.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="37"/>
+        <CursorPos X="20" Y="52"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="advent2015_10a.lpr"/>
+        <Caret Line="33" Column="11" TopLine="11"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2015_10a.lpr"/>
+        <Caret Line="21" Column="26" TopLine="10"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advent2015_10a.lpr"/>
+        <Caret Line="43" Column="22" TopLine="21"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advent2015_10a.lpr"/>
+        <Caret Line="39" Column="18" TopLine="19"/>
+      </Position4>
+      <Position5>
+        <Filename Value="advent2015_10a.lpr"/>
+        <Caret Line="41" Column="22" TopLine="19"/>
+      </Position5>
+      <Position6>
+        <Filename Value="advent2015_10a.lpr"/>
+        <Caret Line="43" TopLine="21"/>
+      </Position6>
+      <Position7>
+        <Filename Value="advent2015_10a.lpr"/>
+        <Caret Line="56" Column="9" TopLine="34"/>
+      </Position7>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
