@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="advent2021_03b.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="127"/>
+        <CursorPos X="3" Y="149"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\inc\strings.pp"/>
+        <UnitName Value="Strings"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="6" HistoryIndex="5">
+      <Position1>
+        <Filename Value="advent2021_03b.lpr"/>
+        <Caret Line="107" Column="17" TopLine="85"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2021_03b.lpr"/>
+        <Caret Line="59" Column="21" TopLine="50"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advent2021_03b.lpr"/>
+        <Caret Line="91" Column="17" TopLine="80"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advent2021_03b.lpr"/>
+        <Caret Line="144" Column="43" TopLine="125"/>
+      </Position4>
+      <Position5>
+        <Filename Value="advent2021_03b.lpr"/>
+        <Caret Line="109" Column="42" TopLine="98"/>
+      </Position5>
+      <Position6>
+        <Filename Value="advent2021_03b.lpr"/>
+        <Caret Line="139" Column="46" TopLine="125"/>
+      </Position6>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
