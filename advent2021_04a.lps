@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="advent2021_04a.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="79"/>
+        <CursorPos X="68" Y="100"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\inc\strings.pp"/>
+        <UnitName Value="Strings"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="mystrings.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MyStrings"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="35"/>
+        <CursorPos X="43" Y="16"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="28" TopLine="13"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="30" TopLine="13"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="31" TopLine="13"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="28" TopLine="13"/>
+      </Position4>
+      <Position5>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="25" TopLine="13"/>
+      </Position5>
+      <Position6>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="27" TopLine="13"/>
+      </Position6>
+      <Position7>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="28" TopLine="13"/>
+      </Position7>
+      <Position8>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="30" TopLine="13"/>
+      </Position8>
+      <Position9>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="31" TopLine="13"/>
+      </Position9>
+      <Position10>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="28" TopLine="13"/>
+      </Position10>
+      <Position11>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="30" TopLine="13"/>
+      </Position11>
+      <Position12>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="31" TopLine="13"/>
+      </Position12>
+      <Position13>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="28" TopLine="13"/>
+      </Position13>
+      <Position14>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="30" TopLine="13"/>
+      </Position14>
+      <Position15>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="31" TopLine="13"/>
+      </Position15>
+      <Position16>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="28" TopLine="13"/>
+      </Position16>
+      <Position17>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="30" TopLine="13"/>
+      </Position17>
+      <Position18>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="31" TopLine="13"/>
+      </Position18>
+      <Position19>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="28" TopLine="13"/>
+      </Position19>
+      <Position20>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="30" TopLine="13"/>
+      </Position20>
+      <Position21>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="31" TopLine="13"/>
+      </Position21>
+      <Position22>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="48" TopLine="35"/>
+      </Position22>
+      <Position23>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="24" TopLine="13"/>
+      </Position23>
+      <Position24>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="25" TopLine="13"/>
+      </Position24>
+      <Position25>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="26" TopLine="13"/>
+      </Position25>
+      <Position26>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="28" TopLine="13"/>
+      </Position26>
+      <Position27>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="30" TopLine="14"/>
+      </Position27>
+      <Position28>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="68" TopLine="48"/>
+      </Position28>
+      <Position29>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="40" Column="23" TopLine="29"/>
+      </Position29>
+      <Position30>
+        <Filename Value="advent2021_04a.lpr"/>
+        <Caret Line="100" Column="38" TopLine="79"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="3">
+      <Item1>
+        <Expression Value="s"/>
+      </Item1>
+      <Item2>
+        <Expression Value="i"/>
+      </Item2>
+      <Item3>
+        <Expression Value="cards"/>
+      </Item3>
+    </Watches>
+  </Debugging>
+</CONFIG>
