@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="permute_experiment.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="19"/>
+        <CursorPos X="18" Y="30"/>
+        <UsageCount Value="33"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="20" HistoryIndex="19">
+      <Position1>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="21" Column="20" TopLine="12"/>
+      </Position1>
+      <Position2>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="15" Column="10" TopLine="6"/>
+      </Position2>
+      <Position3>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="34" TopLine="22"/>
+      </Position3>
+      <Position4>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="36" TopLine="22"/>
+      </Position4>
+      <Position5>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="34" TopLine="22"/>
+      </Position5>
+      <Position6>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="39" TopLine="22"/>
+      </Position6>
+      <Position7>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="31" TopLine="22"/>
+      </Position7>
+      <Position8>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="33" TopLine="22"/>
+      </Position8>
+      <Position9>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="34" TopLine="22"/>
+      </Position9>
+      <Position10>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="36" TopLine="22"/>
+      </Position10>
+      <Position11>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="34" TopLine="22"/>
+      </Position11>
+      <Position12>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="36" TopLine="22"/>
+      </Position12>
+      <Position13>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="34" TopLine="22"/>
+      </Position13>
+      <Position14>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="36" TopLine="22"/>
+      </Position14>
+      <Position15>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="34" TopLine="22"/>
+      </Position15>
+      <Position16>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="35" Column="22" TopLine="17"/>
+      </Position16>
+      <Position17>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="30" Column="21" TopLine="16"/>
+      </Position17>
+      <Position18>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="39" TopLine="20"/>
+      </Position18>
+      <Position19>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="4" Column="8"/>
+      </Position19>
+      <Position20>
+        <Filename Value="permute_experiment.lpr"/>
+        <Caret Line="33" Column="17" TopLine="22"/>
+      </Position20>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="5">
+      <Item1>
+        <Expression Value="q"/>
+      </Item1>
+      <Item2>
+        <Expression Value="p"/>
+      </Item2>
+      <Item3>
+        <Expression Value="i"/>
+      </Item3>
+      <Item4>
+        <Expression Value="j"/>
+      </Item4>
+      <Item5>
+        <Expression Value="z"/>
+      </Item5>
+    </Watches>
+  </Debugging>
+</CONFIG>

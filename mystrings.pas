@@ -50,6 +50,7 @@ implementation
       x := x + (ord(s[1])-ord('0'));
       delete(s,1,1);
     end;
+    x := x * sign;
     GrabNumber := X;
   end;
 
