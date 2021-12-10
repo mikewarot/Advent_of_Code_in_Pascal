@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="advent2021_10a.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="35" Y="15"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mystrings.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MyStrings"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="19" Y="53"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\inc\strings.pp"/>
+        <UnitName Value="Strings"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="10" HistoryIndex="9">
+      <Position1>
+        <Filename Value="advent2021_10a.lpr"/>
+        <Caret Line="38" Column="47" TopLine="16"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2021_10a.lpr"/>
+        <Caret Line="20" TopLine="14"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advent2021_10a.lpr"/>
+        <Caret Line="66" Column="9" TopLine="50"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advent2021_10a.lpr"/>
+        <Caret Line="31" Column="25" TopLine="20"/>
+      </Position4>
+      <Position5>
+        <Filename Value="advent2021_10a.lpr"/>
+        <Caret Line="59" Column="57" TopLine="37"/>
+      </Position5>
+      <Position6>
+        <Filename Value="advent2021_10a.lpr"/>
+        <Caret Line="72" Column="64" TopLine="50"/>
+      </Position6>
+      <Position7>
+        <Filename Value="advent2021_10a.lpr"/>
+        <Caret Line="58" Column="65" TopLine="41"/>
+      </Position7>
+      <Position8>
+        <Filename Value="advent2021_10a.lpr"/>
+        <Caret Line="29" Column="25" TopLine="18"/>
+      </Position8>
+      <Position9>
+        <Filename Value="advent2021_10a.lpr"/>
+        <Caret Line="69" Column="35" TopLine="62"/>
+      </Position9>
+      <Position10>
+        <Filename Value="advent2021_10a.lpr"/>
+        <Caret Line="90" Column="18" TopLine="76"/>
+      </Position10>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="3">
+      <Item1>
+        <Expression Value="s"/>
+      </Item1>
+      <Item2>
+        <Expression Value="i"/>
+      </Item2>
+      <Item3>
+        <Expression Value="cards"/>
+      </Item3>
+    </Watches>
+  </Debugging>
+</CONFIG>
