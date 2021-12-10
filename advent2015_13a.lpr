@@ -1,6 +1,6 @@
 program advent2015_13a;
 uses
-  classes, fgl;
+  classes, fgl, my_permute;
 
   procedure SkipSpace(Var S : String);
   begin
@@ -48,6 +48,7 @@ type
   tfal = set of Byte;
 
 var
+  src : text;
   s : string;
   Guest1,Guest2 : string;
   Key1, Key2    : integer;
@@ -55,6 +56,7 @@ var
   Guests : TStringList;
   Deltas : Array[0..1000] of Array[0..1000] of Int64;
   i,j,k : int64;
+  Ordering : Array[1..1000] of integer;
 
   function AddUnsorted(S : String): integer;
   var
@@ -69,14 +71,17 @@ var
 
 
 begin
+  assign(src,'Advent2015_13a.txt');
+  reset(src);
   Guests := TStringList.Create;
   for i := 0 to 1000 do
      for j := 0 to 1000 do
         Deltas[i,j] := 0;
 
-  while not eof do
+
+  while not eof(src) do
   begin
-    readln(s);
+    readln(src,s);
     Guest1 := GrabString(S);
     GrabString(S);  // skips "would"
 
@@ -101,8 +106,18 @@ begin
     Key2 := AddUnsorted(Guest2);
     Deltas[Key1,Key2] := Delta;
   end;
+  close(src);
 
   WriteLn('GuestCount = ',Guests.Count);
+  for i := 1 to factorial(guests.count) do
+  begin
+    permute(Guests.Count,i,Ordering);
+    for j := 1 to Guests.Count do
+      write(Ordering[j],' ');
+    writeln;
+  end;
+
+  Readln;
 
 end.
 

@@ -4,14 +4,14 @@
     <PathDelim Value="\"/>
     <Version Value="11"/>
     <BuildModes Active="Default"/>
-    <Units Count="2">
+    <Units Count="3">
       <Unit0>
         <Filename Value="advent2015_13a.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="50"/>
-        <CursorPos X="18" Y="67"/>
-        <UsageCount Value="22"/>
+        <TopLine Value="106"/>
+        <CursorPos X="33" Y="112"/>
+        <UsageCount Value="23"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
@@ -21,8 +21,16 @@
         <TopLine Value="94"/>
         <UsageCount Value="10"/>
       </Unit1>
+      <Unit2>
+        <Filename Value="my_permute.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="53"/>
+        <CursorPos X="20" Y="67"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
     </Units>
-    <JumpHistory Count="8" HistoryIndex="7">
+    <JumpHistory Count="10" HistoryIndex="9">
       <Position1>
         <Filename Value="advent2015_13a.lpr"/>
         <Caret Line="6" Column="20"/>
@@ -55,6 +63,14 @@
         <Filename Value="advent2015_13a.lpr"/>
         <Caret Line="89" Column="15" TopLine="78"/>
       </Position8>
+      <Position9>
+        <Filename Value="advent2015_13a.lpr"/>
+        <Caret Line="3" Column="27"/>
+      </Position9>
+      <Position10>
+        <Filename Value="my_permute.pas"/>
+        <Caret Line="68" TopLine="54"/>
+      </Position10>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
