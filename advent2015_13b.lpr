@@ -1,4 +1,4 @@
-program advent2015_13a;
+program advent2015_13b;
 uses
   classes, fgl, my_permute;
 
@@ -115,6 +115,8 @@ begin
       write(Deltas[i,j]:6);
     writeln;
   end;
+
+  guests.Add('ZZZZZZZZZZ');
 
   Best := -99999999;
   WriteLn('GuestCount = ',Guests.Count);

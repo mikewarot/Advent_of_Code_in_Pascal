@@ -9,8 +9,8 @@
         <Filename Value="advent2015_13a.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="106"/>
-        <CursorPos X="33" Y="112"/>
+        <TopLine Value="71"/>
+        <CursorPos X="35" Y="75"/>
         <UsageCount Value="23"/>
         <Loaded Value="True"/>
       </Unit0>
@@ -26,11 +26,11 @@
         <EditorIndex Value="1"/>
         <TopLine Value="53"/>
         <CursorPos X="20" Y="67"/>
-        <UsageCount Value="10"/>
+        <UsageCount Value="11"/>
         <Loaded Value="True"/>
       </Unit2>
     </Units>
-    <JumpHistory Count="10" HistoryIndex="9">
+    <JumpHistory Count="12" HistoryIndex="11">
       <Position1>
         <Filename Value="advent2015_13a.lpr"/>
         <Caret Line="6" Column="20"/>
@@ -71,10 +71,25 @@
         <Filename Value="my_permute.pas"/>
         <Caret Line="68" TopLine="54"/>
       </Position10>
+      <Position11>
+        <Filename Value="advent2015_13a.lpr"/>
+        <Caret Line="57" Column="37" TopLine="49"/>
+      </Position11>
+      <Position12>
+        <Filename Value="advent2015_13a.lpr"/>
+        <Caret Line="79" Column="16" TopLine="73"/>
+      </Position12>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
       <Modes Count="0" ActiveMode=""/>
     </RunParams>
   </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="deltas"/>
+      </Item1>
+    </Watches>
+  </Debugging>
 </CONFIG>
