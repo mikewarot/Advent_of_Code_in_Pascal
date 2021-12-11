@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="advent2021_11a.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="49"/>
+        <CursorPos X="35" Y="55"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mystrings.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MyStrings"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="33"/>
+        <CursorPos X="19" Y="53"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\inc\strings.pp"/>
+        <UnitName Value="Strings"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\fgl.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="922"/>
+        <CursorPos Y="929"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="6" HistoryIndex="5">
+      <Position1>
+        <Filename Value="advent2021_11a.lpr"/>
+        <Caret Line="9" Column="29"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2021_11a.lpr"/>
+        <Caret Line="42" Column="15" TopLine="28"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advent2021_11a.lpr"/>
+        <Caret Line="63" Column="29" TopLine="50"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advent2021_11a.lpr"/>
+        <Caret Line="43" Column="20" TopLine="36"/>
+      </Position4>
+      <Position5>
+        <Filename Value="advent2021_11a.lpr"/>
+        <Caret Line="26" Column="46" TopLine="19"/>
+      </Position5>
+      <Position6>
+        <Filename Value="advent2021_11a.lpr"/>
+        <Caret Line="76" Column="19" TopLine="62"/>
+      </Position6>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="3">
+      <Item1>
+        <Expression Value="s"/>
+      </Item1>
+      <Item2>
+        <Expression Value="i"/>
+      </Item2>
+      <Item3>
+        <Expression Value="cards"/>
+      </Item3>
+    </Watches>
+  </Debugging>
+</CONFIG>

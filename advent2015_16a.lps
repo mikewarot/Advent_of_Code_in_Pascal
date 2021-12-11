@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="advent2015_16a.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="9"/>
+        <CursorPos X="17" Y="15"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\inc\strings.pp"/>
+        <UnitName Value="Strings"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="my_permute.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="53"/>
+        <CursorPos X="20" Y="67"/>
+        <UsageCount Value="11"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="mystrings.pas"/>
+        <UnitName Value="MyStrings"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="64"/>
+        <CursorPos X="20" Y="61"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="6" HistoryIndex="5">
+      <Position1>
+        <Filename Value="advent2015_16a.lpr"/>
+        <Caret Line="27" TopLine="16"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2015_16a.lpr"/>
+        <Caret Line="23" Column="30" TopLine="12"/>
+      </Position2>
+      <Position3>
+        <Filename Value="mystrings.pas"/>
+        <Caret Line="6" Column="13"/>
+      </Position3>
+      <Position4>
+        <Filename Value="mystrings.pas"/>
+        <Caret Line="78" Column="14" TopLine="66"/>
+      </Position4>
+      <Position5>
+        <Filename Value="mystrings.pas"/>
+        <Caret Line="69" Column="46" TopLine="61"/>
+      </Position5>
+      <Position6>
+        <Filename Value="advent2015_16a.lpr"/>
+        <Caret Line="39" Column="14" TopLine="25"/>
+      </Position6>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="deltas"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>

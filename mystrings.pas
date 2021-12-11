@@ -2,11 +2,16 @@ unit MyStrings;
 
 interface
 
+  type
+    CharSet = Set of Char;
+
   procedure SkipSpace(Var S : String);
 
   function GrabString(Var S : String): String;
 
   function GrabNumber(Var S : String): Int64;
+
+  function GrabUntil(Var S : String; Delimiter : CharSet):String;
 
 
 implementation
@@ -53,6 +58,25 @@ implementation
     x := x * sign;
     GrabNumber := X;
   end;
+
+  function GrabUntil(Var S : String; Delimiter : CharSet):String;
+  var
+    t : string;
+  begin
+    Skipspace(S);
+    t := '';
+    SkipSpace(S);
+    while (s <> '') AND NOT(S[1] in Delimiter) do
+    begin
+      t := t + s[1];
+      delete(s,1,1);
+    end;
+
+    while (S <> '') AND (S[1] in Delimiter) do
+      delete(s,1,1);
+
+    GrabUntil := T;
+  end; // GrabUntil
 
 end.
 
