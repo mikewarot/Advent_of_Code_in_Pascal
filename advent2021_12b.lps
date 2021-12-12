@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="advent2021_12b.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="25"/>
+        <CursorPos X="3" Y="29"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mystrings.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MyStrings"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="33"/>
+        <CursorPos X="19" Y="53"/>
+        <UsageCount Value="20"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\inc\strings.pp"/>
+        <UnitName Value="Strings"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\fgl.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="922"/>
+        <CursorPos Y="929"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="674"/>
+        <CursorPos X="14" Y="681"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\classes\stringl.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1284"/>
+        <CursorPos X="30" Y="1287"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="86"/>
+        <CursorPos X="10" Y="93"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\sysutils\sysstr.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="571"/>
+        <CursorPos X="67" Y="574"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\inc\ustringh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="100"/>
+        <CursorPos X="18" Y="107"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+    </Units>
+    <JumpHistory Count="24" HistoryIndex="23">
+      <Position1>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="112" Column="43" TopLine="108"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="40" Column="15" TopLine="31"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="11" Column="8" TopLine="4"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="37" Column="21" TopLine="28"/>
+      </Position4>
+      <Position5>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="76" TopLine="63"/>
+      </Position5>
+      <Position6>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="11"/>
+      </Position6>
+      <Position7>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="12"/>
+      </Position7>
+      <Position8>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="13"/>
+      </Position8>
+      <Position9>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="58" TopLine="52"/>
+      </Position9>
+      <Position10>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="14"/>
+      </Position10>
+      <Position11>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="37" Column="94" TopLine="24"/>
+      </Position11>
+      <Position12>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="63" Column="48" TopLine="56"/>
+      </Position12>
+      <Position13>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="85" Column="35" TopLine="80"/>
+      </Position13>
+      <Position14>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="104" Column="12" TopLine="92"/>
+      </Position14>
+      <Position15>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="110" Column="12" TopLine="98"/>
+      </Position15>
+      <Position16>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="111" Column="10" TopLine="99"/>
+      </Position16>
+      <Position17>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="114" Column="14" TopLine="102"/>
+      </Position17>
+      <Position18>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="115" Column="10" TopLine="103"/>
+      </Position18>
+      <Position19>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="123" Column="8" TopLine="111"/>
+      </Position19>
+      <Position20>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="126" Column="10" TopLine="114"/>
+      </Position20>
+      <Position21>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="33" Column="12" TopLine="22"/>
+      </Position21>
+      <Position22>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="43" Column="12" TopLine="31"/>
+      </Position22>
+      <Position23>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="82" Column="41" TopLine="70"/>
+      </Position23>
+      <Position24>
+        <Filename Value="advent2021_12b.lpr"/>
+        <Caret Line="83" Column="41" TopLine="71"/>
+      </Position24>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="3">
+      <Item1>
+        <Expression Value="s"/>
+      </Item1>
+      <Item2>
+        <Expression Value="i"/>
+      </Item2>
+      <Item3>
+        <Expression Value="cards"/>
+      </Item3>
+    </Watches>
+  </Debugging>
+</CONFIG>
