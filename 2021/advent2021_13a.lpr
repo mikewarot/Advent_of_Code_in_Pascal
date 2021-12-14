@@ -37,7 +37,7 @@ begin
     for j := 0 to 2000 do
       paper[i,j] := 0;
 
-  assign(src,'advent2021_13a_input.txt');
+  assign(src,'advent2021_13_reddit.txt');
   reset(src);
 
   readln(src,s);
