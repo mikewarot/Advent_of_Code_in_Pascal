@@ -19,11 +19,12 @@ var
   match : integer;
 
   last : integer;
+  total : int64;
 
 
 begin
   count := 0;
-  assign(src,'advent2021_14_input.txt');
+  assign(src,'advent2021_14b_reddit.txt');
   reset(src);
 
   readln(src,base);
@@ -87,16 +88,23 @@ begin
 
   inc(counts[last]); // the last character never changes
 
+
   max := 0;
   for i := 0 to 25 do
     if counts[i] > max then max := counts[i];
   min := max;
+
   for i := 0 to 25 do
     if (counts[i] <> 0) AND (counts[i] < min) then min := counts[i];
+
+  total := 0;
+  for i := 0 to 25 do
+    inc(total,counts[i]);
 
   WriteLn('Max = ',max);
   WriteLn('Min = ',Min);
   WriteLn('Delta = ',Max-Min);
+  WriteLn('Total = ',Total);
 
   readln;
 end.

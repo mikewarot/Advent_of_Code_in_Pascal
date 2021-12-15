@@ -6,11 +6,11 @@
     <BuildModes Active="Default"/>
     <Units Count="9">
       <Unit0>
-        <Filename Value="advent2021_14b.lpr"/>
+        <Filename Value="advent2021_15b.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="47"/>
-        <CursorPos X="26" Y="55"/>
+        <TopLine Value="7"/>
+        <CursorPos X="34" Y="23"/>
         <UsageCount Value="23"/>
         <Loaded Value="True"/>
       </Unit0>
@@ -73,52 +73,17 @@
         <UsageCount Value="10"/>
       </Unit8>
     </Units>
-    <JumpHistory Count="7" HistoryIndex="6">
-      <Position1>
-        <Filename Value="advent2021_14b.lpr"/>
-        <Caret Line="51" Column="26" TopLine="37"/>
-      </Position1>
-      <Position2>
-        <Filename Value="advent2021_14b.lpr"/>
-        <Caret Line="55" Column="12" TopLine="45"/>
-      </Position2>
-      <Position3>
-        <Filename Value="advent2021_14b.lpr"/>
-        <Caret Line="94" Column="78" TopLine="75"/>
-      </Position3>
-      <Position4>
-        <Filename Value="advent2021_14b.lpr"/>
-        <Caret Line="85" Column="41" TopLine="75"/>
-      </Position4>
-      <Position5>
-        <Filename Value="advent2021_14b.lpr"/>
-        <Caret Line="26" Column="34" TopLine="16"/>
-      </Position5>
-      <Position6>
-        <Filename Value="advent2021_14b.lpr"/>
-        <Caret Line="2" Column="24"/>
-      </Position6>
-      <Position7>
-        <Filename Value="advent2021_14b.lpr"/>
-        <Caret Line="27" Column="35" TopLine="15"/>
-      </Position7>
-    </JumpHistory>
+    <JumpHistory HistoryIndex="-1"/>
     <RunParams>
       <FormatVersion Value="2"/>
       <Modes Count="0" ActiveMode=""/>
     </RunParams>
   </ProjectSession>
   <Debugging>
-    <Watches Count="3">
+    <Watches Count="1">
       <Item1>
-        <Expression Value="s"/>
+        <Expression Value="a"/>
       </Item1>
-      <Item2>
-        <Expression Value="i"/>
-      </Item2>
-      <Item3>
-        <Expression Value="cards"/>
-      </Item3>
     </Watches>
   </Debugging>
 </CONFIG>
