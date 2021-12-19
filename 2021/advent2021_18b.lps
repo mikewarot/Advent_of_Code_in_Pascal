@@ -9,8 +9,8 @@
         <Filename Value="advent2021_18b.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="214"/>
-        <CursorPos X="34" Y="219"/>
+        <TopLine Value="138"/>
+        <CursorPos X="9" Y="150"/>
         <UsageCount Value="32"/>
         <Loaded Value="True"/>
       </Unit0>
@@ -73,15 +73,11 @@
         <UsageCount Value="9"/>
       </Unit8>
     </Units>
-    <JumpHistory Count="2" HistoryIndex="1">
+    <JumpHistory Count="1">
       <Position1>
         <Filename Value="advent2021_18b.lpr"/>
-        <Caret Line="214" Column="16" TopLine="206"/>
+        <Caret Line="26" Column="79" TopLine="52"/>
       </Position1>
-      <Position2>
-        <Filename Value="advent2021_18b.lpr"/>
-        <Caret Line="240" Column="31" TopLine="222"/>
-      </Position2>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
