@@ -1,8 +1,12 @@
 program advent2021_21b;
+uses sysutils, dateutils;
+
 const
   outcome : array[1..9] of qword =     (0,0,1,3,6,7,6,3,1);    // outcome of 3 dirac dice
                                                                // I lost hours because the first time I did this math, I was wrong!
 var
+  StartTime   : TDateTime;
+
   i,j,k : int64;
   p,s,t : int64;
 
@@ -14,10 +18,12 @@ var
   win1,win2 : qword;
   score : array[1..9] of integer;
 begin
-  fillchar(gamestate,sizeof(gamestate),0); // just null it out!
 
   Write('Player 1 Position : '); ReadLn(p1);
   Write('Player 2 Position : '); ReadLn(p2);
+
+  StartTime := Now;
+  fillchar(gamestate,sizeof(gamestate),0); // just null it out!
 
   gamestate[0,p1,p2,0,0] := 1;   // set up the initial conditions
   // in turn 0 (before the game, the state where p1 and p2 are in the inital states are counted once, THIS universe
@@ -76,6 +82,7 @@ begin
           for s2 := 21 to 30 do
             inc(win2,gamestate[t,p1,p2,s1,s2]);
   WriteLn('Win2 = ',Win2);
+  writeln((MilliSecondsBetween(Now,StartTime)*0.001):10:3,' seconds');
 
   readln;
 end.
