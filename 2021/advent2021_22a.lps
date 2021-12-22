@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="advent2021_22a.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="6"/>
+        <CursorPos X="28" Y="21"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mystrings.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MyStrings"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="36"/>
+        <CursorPos X="26" Y="47"/>
+        <UsageCount Value="37"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\inc\strings.pp"/>
+        <UnitName Value="Strings"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <UsageCount Value="9"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\fgl.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="922"/>
+        <CursorPos Y="929"/>
+        <UsageCount Value="9"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="674"/>
+        <CursorPos X="14" Y="681"/>
+        <UsageCount Value="9"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\classes\stringl.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1284"/>
+        <CursorPos X="30" Y="1287"/>
+        <UsageCount Value="9"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="86"/>
+        <CursorPos X="10" Y="93"/>
+        <UsageCount Value="9"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\sysutils\sysstr.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="571"/>
+        <CursorPos X="67" Y="574"/>
+        <UsageCount Value="9"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\inc\ustringh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="100"/>
+        <CursorPos X="18" Y="107"/>
+        <UsageCount Value="9"/>
+      </Unit8>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="advent2021_22a.lpr"/>
+        <Caret Line="29" TopLine="11"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2021_22a.lpr"/>
+        <Caret Line="2" Column="36"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advent2021_22a.lpr"/>
+        <Caret Line="26" Column="17" TopLine="17"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advent2021_22a.lpr"/>
+        <Caret Line="27" Column="19" TopLine="16"/>
+      </Position4>
+      <Position5>
+        <Filename Value="advent2021_22a.lpr"/>
+        <Caret Line="46" Column="31" TopLine="33"/>
+      </Position5>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="4">
+      <Item1>
+        <Expression Value="soundings[1]"/>
+      </Item1>
+      <Item2>
+        <Expression Value="soundings[2]"/>
+      </Item2>
+      <Item3>
+        <Expression Value="soundcount"/>
+      </Item3>
+      <Item4>
+        <Expression Value="spun[1]"/>
+      </Item4>
+    </Watches>
+  </Debugging>
+</CONFIG>

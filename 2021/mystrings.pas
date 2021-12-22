@@ -12,6 +12,9 @@ interface
   function GrabNumber(Var S : String): Int64;
 
   function GrabUntil(Var S : String; Delimiter : CharSet):String;
+  
+  procedure Expect(Expected : String; Var S : String);
+
 
 
 implementation
@@ -77,6 +80,14 @@ implementation
 
     GrabUntil := T;
   end; // GrabUntil
+  
+  procedure Expect(Expected : String; Var S : String);
+  begin
+    if pos(Expected,S)=1 then
+	  delete(s,1,length(expected)) 
+    else
+	  WriteLn('Expected : ',Expected);
+  end;
 
 end.
 
