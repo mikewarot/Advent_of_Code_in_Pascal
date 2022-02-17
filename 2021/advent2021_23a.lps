@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="advent2021_23a.pas"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="275"/>
+        <CursorPos Y="278"/>
+        <UsageCount Value="55"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mystrings.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MyStrings"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="36"/>
+        <CursorPos X="26" Y="47"/>
+        <UsageCount Value="53"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\inc\strings.pp"/>
+        <UnitName Value="Strings"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <UsageCount Value="8"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\fgl.pp"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="1530"/>
+        <CursorPos Y="1539"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="674"/>
+        <CursorPos X="14" Y="681"/>
+        <UsageCount Value="8"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\classes\stringl.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1284"/>
+        <CursorPos X="30" Y="1287"/>
+        <UsageCount Value="8"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="86"/>
+        <CursorPos X="10" Y="93"/>
+        <UsageCount Value="8"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\objpas\sysutils\sysstr.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="571"/>
+        <CursorPos X="67" Y="574"/>
+        <UsageCount Value="8"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\inc\ustringh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="100"/>
+        <CursorPos X="18" Y="107"/>
+        <UsageCount Value="8"/>
+      </Unit8>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="189" TopLine="181"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="191" TopLine="181"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="192" TopLine="181"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="194" TopLine="181"/>
+      </Position4>
+      <Position5>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="189" TopLine="181"/>
+      </Position5>
+      <Position6>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="191" TopLine="181"/>
+      </Position6>
+      <Position7>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="192" TopLine="181"/>
+      </Position7>
+      <Position8>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="194" TopLine="181"/>
+      </Position8>
+      <Position9>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="195" TopLine="181"/>
+      </Position9>
+      <Position10>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="197" TopLine="182"/>
+      </Position10>
+      <Position11>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="198" TopLine="183"/>
+      </Position11>
+      <Position12>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="195" TopLine="183"/>
+      </Position12>
+      <Position13>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="197" TopLine="183"/>
+      </Position13>
+      <Position14>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="198" TopLine="183"/>
+      </Position14>
+      <Position15>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="200" TopLine="185"/>
+      </Position15>
+      <Position16>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="304" Column="34" TopLine="287"/>
+      </Position16>
+      <Position17>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="233" TopLine="224"/>
+      </Position17>
+      <Position18>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="234" TopLine="224"/>
+      </Position18>
+      <Position19>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="235" TopLine="224"/>
+      </Position19>
+      <Position20>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="20" TopLine="10"/>
+      </Position20>
+      <Position21>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="80" Column="35" TopLine="79"/>
+      </Position21>
+      <Position22>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="324" Column="32" TopLine="321"/>
+      </Position22>
+      <Position23>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="190" Column="14" TopLine="177"/>
+      </Position23>
+      <Position24>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="188" Column="23" TopLine="180"/>
+      </Position24>
+      <Position25>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="187" Column="19" TopLine="179"/>
+      </Position25>
+      <Position26>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="191" Column="12" TopLine="182"/>
+      </Position26>
+      <Position27>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="220" TopLine="208"/>
+      </Position27>
+      <Position28>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="370" Column="34" TopLine="236"/>
+      </Position28>
+      <Position29>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="319" TopLine="319"/>
+      </Position29>
+      <Position30>
+        <Filename Value="advent2021_23a.pas"/>
+        <Caret Line="278" TopLine="275"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="7">
+      <Item1>
+        <Expression Value="goalc"/>
+      </Item1>
+      <Item2>
+        <Expression Value="tmp"/>
+      </Item2>
+      <Item3>
+        <Expression Value="thispath"/>
+      </Item3>
+      <Item4>
+        <Expression Value="tmps10"/>
+      </Item4>
+      <Item5>
+        <Expression Value="s10"/>
+      </Item5>
+      <Item6>
+        <Expression Value="goal[j]"/>
+      </Item6>
+      <Item7>
+        <Expression Value="j"/>
+      </Item7>
+    </Watches>
+  </Debugging>
+</CONFIG>

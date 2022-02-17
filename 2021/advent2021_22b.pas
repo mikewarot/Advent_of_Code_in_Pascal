@@ -72,7 +72,9 @@ var
   rulec : integer;
   rules : array[1..1000] of string;
 
-  grid : array[1..limit] of array[1..limit] of bitpacked array[1..limit] of 0..1;
+  grid : array[1..limit]
+      of array[1..limit]
+      of bitpacked array[1..limit] of 0..1;
 
   i,j,k : int64;
   x,y,z : int64;

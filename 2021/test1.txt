@@ -1,0 +1,5 @@
+inp x
+inp y
+add y x
+add z x
+mul z y
