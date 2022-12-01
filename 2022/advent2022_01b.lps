@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="advent2022_01b.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="17"/>
+        <CursorPos X="45" Y="52"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="4" HistoryIndex="3">
+      <Position1>
+        <Filename Value="advent2022_01b.lpr"/>
+        <Caret Line="30" Column="31"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2022_01b.lpr"/>
+        <Caret Line="55" TopLine="19"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advent2022_01b.lpr"/>
+        <Caret Line="52" TopLine="16"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advent2022_01b.lpr"/>
+        <Caret Line="48" Column="17" TopLine="16"/>
+      </Position4>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
