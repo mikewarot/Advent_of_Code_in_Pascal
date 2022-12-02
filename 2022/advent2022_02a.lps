@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="advent2022_02a.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="15"/>
+        <CursorPos X="118" Y="48"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mystrings.pas"/>
+        <UnitName Value="MyStrings"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="10" HistoryIndex="9">
+      <Position1>
+        <Filename Value="advent2022_02a.lpr"/>
+        <Caret Line="17"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advent2022_02a.lpr"/>
+        <Caret Line="3" Column="7"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advent2022_02a.lpr"/>
+        <Caret Line="14" Column="20"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advent2022_02a.lpr"/>
+        <Caret Line="23" Column="24"/>
+      </Position4>
+      <Position5>
+        <Filename Value="advent2022_02a.lpr"/>
+        <Caret Line="10" Column="16"/>
+      </Position5>
+      <Position6>
+        <Filename Value="advent2022_02a.lpr"/>
+        <Caret Line="14"/>
+      </Position6>
+      <Position7>
+        <Filename Value="advent2022_02a.lpr"/>
+        <Caret Line="30" Column="58"/>
+      </Position7>
+      <Position8>
+        <Filename Value="advent2022_02a.lpr"/>
+        <Caret Line="38" Column="78" TopLine="5"/>
+      </Position8>
+      <Position9>
+        <Filename Value="advent2022_02a.lpr"/>
+        <Caret Line="10" Column="18" TopLine="5"/>
+      </Position9>
+      <Position10>
+        <Filename Value="advent2022_02a.lpr"/>
+        <Caret Line="15"/>
+      </Position10>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
