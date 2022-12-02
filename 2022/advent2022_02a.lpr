@@ -26,8 +26,10 @@ var
   a,b : string;
   a_,b_ : integer;
   moves : TMap;
+  score : integer;
 
 begin
+  score := 0;
   moves := TMap.Create;
   moves.Sorted:= True;
 
@@ -46,6 +48,8 @@ begin
     b := Grabstring(s);   b_ := moves.KeyData[b];
 
     writeln('A,B = ',A,',',B,'    Decoded = ',A_,',',B_,' RPS = ',RockPaperScissors(A_,B_),' ModRPS = ',ModRPS(A_,B_));
+    inc(score,ModRPS(A_,B_));
   end;
+  WriteLn('Total Score : ',Score);
 end.
 
